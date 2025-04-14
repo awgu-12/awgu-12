@@ -11,9 +11,10 @@
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/> 
 
 🌱 Learning
+
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 
 😄 Goals
-#### 저는 백엔드 개발자로서 현재로써는 SQLD 자격증이나 AWS(Amozon Web Services)자격증 등 활용가능한 자격증을 따는 것을 목표로 하고 있습니다.
+- 저는 백엔드 개발자로서 현재로써는 SQLD 자격증이나 AWS(Amozon Web Services)자격증 등 활용가능한 자격증을 따는 것을 목표로 하고 있습니다.
 
 
